@@ -1,0 +1,87 @@
+body{
+  margin:100;
+
+}
+#propaganda  {
+padding: 20px 390px;
+height: 60px;
+  background-color: #3385ff;
+}
+#propaganda a{
+  color: white;
+  text-decoration: none;
+}
+#divBusca{
+  position: absolute;top:230px; right: 80px;
+}
+#sports{
+  padding: 20px 500px;
+}
+#sports a{
+  color:black;
+  text-decoration: none;
+
+}
+#promocoes{
+  padding: 20px 500px;
+  background-color: #3385ff;
+}
+#promocoes a{
+  color:white;
+  text-decoration: none;
+
+}
+#masculino{
+padding: 20px 150px;
+height: 60px;
+width: 250px;
+background-color: #3385ff;
+position: absolute;
+left: 100px;
+top:480px;
+
+}
+#masculino a{
+  color: white;
+  text-decoration: none;
+
+}
+#Feminino{
+  position: absolute;
+  padding: 20px 150px;
+  height: 60px;
+  width: 250px;
+  background: #3385ff;
+  right: 100px;
+  top:480px;
+}
+#Feminino a {
+  color :white;
+  text-decoration: none;
+}
+#infantil{
+  position: absolute;
+  height: 60px;
+  width: 100px;
+  padding: 20px 300px;
+  background-color: #3385ff;
+    right: 25%;
+    top:610px;
+}
+#infantil a{
+  color:white;
+  text-decoration: none;
+}
+#fotos{
+  position: absolute;
+  padding: 130px 580px;
+background-color: #3385ff;
+right: 100px;
+top:750px;
+}
+#fotos img{
+  position: absolute;
+  left: 40px;
+  bottom: 30px;
+
+}
