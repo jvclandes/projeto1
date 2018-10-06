@@ -79,9 +79,256 @@ background-color: #3385ff;
 right: 100px;
 top:750px;
 }
-#fotos img{
+#fotos1 a{
   position: absolute;
-  left: 40px;
-  bottom: 30px;
+left: 150px;
+top:782px;
 
+}
+#fotos1 p{
+  position: absolute;
+  left:120px;
+  top:970px;
+}
+#fotos2{
+  position: absolute;
+  left: 400px;
+  top: 782px;
+}
+#fotos2 p{
+  position: absolute;
+  left:10px;
+  top:185px;
+}
+#fotos3 {
+  position: absolute;
+  left: 700px;
+  top:782px;
+}
+#fotos3 p{
+  position:absolute;
+  left:20px;
+  top:185px;
+}
+#fotos4{
+  position: absolute;
+  left: 300px;
+  top:0px;
+}
+
+#promocoes2{
+  padding: 20px 500px;
+  background-color: #3385ff;
+}
+#promocoes2 a{
+  color:white;
+  text-decoration: none;
+}
+#fundo{
+  padding: 500px 500px;
+  background-color: #ffffff;
+}
+#menuzinho{
+  position: absolute;
+  padding: 200px 100px;
+  background-color: #3885ff;
+  left:100px;
+  top:250px;
+}
+#menuzinho ul {
+  position: absolute;
+  left:-10px;
+  top:50px;
+  list-style: none;
+}
+#menuzinho a{
+  text-decoration: none;
+  color: white;
+}
+#fotos5   {
+  position: absolute;
+  left:350px;
+  top:230px;
+
+}
+#fotos5 ul{
+ list-style: none;
+}
+#barra{
+  position: absolute;
+  padding: 15px 470px;
+  background-color: #3385ff;
+  right: 100px;
+  top:500px;
+}
+#barra2{
+  position: absolute;
+  padding: 15px 555px;
+  background-color: #3385ff;
+  left: 100px;
+  top:805px;
+}
+#barra3{
+  position: absolute;
+  padding: 15px 555px;
+  background-color: #3385ff;
+  left: 100px;
+  top:1110px;
+}
+#barra4{
+  position: absolute;
+  padding: 15px 555px;
+  background-color: #3385ff;
+  left: 100px;
+  top:1450px;
+}
+#fotos6{
+  position: absolute;
+  right:200px;
+  top:230px;
+}
+#fotos6 ul{
+  list-style: none;
+}
+
+
+}
+#fundo2{
+  padding: 500px 500px;
+  background-color: #ffffff;
+}
+#menuzinho2{
+  position: absolute;
+  padding: 200px 100px;
+  background-color: #3885ff;
+  left:100px;
+  top:250px;
+}
+#menuzinho2 ul {
+  position: absolute;
+  left:-10px;
+  top:50px;
+  list-style: none;
+}
+#menuzinho2 a{
+  text-decoration: none;
+  color: white;
+}
+#fotos7   {
+  position: absolute;
+  left:350px;
+  top:230px;
+
+}
+#fotos8 ul{
+ list-style: none;
+}
+#barras{
+  position: absolute;
+  padding: 15px 470px;
+  background-color: #3385ff;
+  right: 100px;
+  top:500px;
+}
+#barra2{
+  position: absolute;
+  padding: 15px 555px;
+  background-color: #3385ff;
+  left: 100px;
+  top:805px;
+}
+#barras3{
+  position: absolute;
+  padding: 15px 555px;
+  background-color: #3385ff;
+  left: 100px;
+  top:1110px;
+}
+#barras4{
+  position: absolute;
+  padding: 15px 555px;
+  background-color: #3385ff;
+  left: 100px;
+  top:1450px;
+}
+#foto6{
+  position: absolute;
+  right:200px;
+  top:230px;
+}
+#foto6 ul{
+  list-style: none;
+}
+
+
+
+
+
+#fundo2{
+  padding: 500px 500px;
+  background-color: #ffffff;
+}
+#menuz{
+  position: absolute;
+  padding: 200px 100px;
+  background-color: #3885ff;
+  left:100px;
+  top:250px;
+}
+#menuz ul {
+  position: absolute;
+  left:-10px;
+  top:50px;
+  list-style: none;
+}
+#menuz a{
+  text-decoration: none;
+  color: white;
+}
+#f1   {
+  position: absolute;
+  left:350px;
+  top:230px;
+  
+
+}
+#f1 ul{
+ list-style: none;
+}
+#bar{
+  position: absolute;
+  padding: 15px 470px;
+  background-color: #3385ff;
+  right: 100px;
+  top:500px;
+}
+#bar2{
+  position: absolute;
+  padding: 15px 555px;
+  background-color: #3385ff;
+  left: 100px;
+  top:805px;
+}
+#bar3{
+  position: absolute;
+  padding: 15px 555px;
+  background-color: #3385ff;
+  left: 100px;
+  top:1110px;
+}
+#bar4{
+  position: absolute;
+  padding: 15px 555px;
+  background-color: #3385ff;
+  left: 100px;
+  top:1450px;
+}
+#f2{
+  position: absolute;
+  right:200px;
+  top:230px;
+
+}
+#f2 ul{
+  list-style: none;
 }
